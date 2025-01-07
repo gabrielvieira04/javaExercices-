@@ -1,4 +1,4 @@
-package Program.Entities;
+package Question01.Entities;
 
 public class Product {
     private String name;
